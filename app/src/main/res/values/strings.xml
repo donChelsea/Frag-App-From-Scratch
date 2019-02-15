@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragment App From Scratch</string>
+    <string name="planet_name">Planet name</string>
+    <string name="planet_number">Planet number</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
